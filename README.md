@@ -5,10 +5,6 @@
     <th>•</th>
     <th>•</th>
     <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
     <th>H</th>
     <th>y</th>
 </table>
@@ -24,11 +20,6 @@
     <th>•</th>
     <th>•</th>
     <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-
 </table>
 </div>
 
