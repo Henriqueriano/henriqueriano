@@ -1,26 +1,4 @@
-<div style="display: flex; justify-content: center;align-items: center">
-<table style="margin-right: 1rem">
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-    <th>H</th>
-    <th>y</th>
-</table>
-
-<table>
-    <th>t</th>
-    <th>h</th>
-    <th>e</th>
-    <th>r</th>
-    <th>e</th>
-    <th></th>
-    <th>!</th>
-    <th>•</th>
-    <th>•</th>
-    <th>•</th>
-</table>
+<h3 align="center">Hello visitor ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ !</h3>
 </div>
 
     My name's Daniel Henrique, and I'm glad about u visiting my profile ! 
