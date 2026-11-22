@@ -29,11 +29,8 @@ Busco constantemente aprimorar meus conhecimentos técnicos e desenvolver projet
 ## Estatísticas
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henriqueriano&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqueriano&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Henriqueriano&show_icons=true&theme=tokyonight&hide_title=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqueriano&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 ## Conecte-se comigo
