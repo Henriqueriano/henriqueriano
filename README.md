@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Daniel Henrique
+# Daniel Henrique
 
 **Estudante de Ciência da Computação | Desenvolvedor de Software**
 
