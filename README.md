@@ -5,7 +5,6 @@
 **Estudante de Ciência da Computação | Desenvolvedor de Software**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Henriqueriano-181717?style=for-the-badge&logo=github)](https://github.com/Henriqueriano)
-[![Perfil](https://img.shields.io/badge/Portfólio-Conheça_meus_projetos-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Henriqueriano/portfolio)
 
 </div>
 
