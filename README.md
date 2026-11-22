@@ -33,12 +33,6 @@ Busco constantemente aprimorar meus conhecimentos técnicos e desenvolver projet
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqueriano&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
-## Conecte-se comigo
-
-Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
-
-[![GitHub](https://img.shields.io/badge/Visite_meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henriqueriano)
-
 <div align="center">
 
 <sub>Obrigado pela visita!</sub>
