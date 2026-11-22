@@ -26,18 +26,6 @@ Busco constantemente aprimorar meus conhecimentos técnicos e desenvolver projet
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Projetos em destaque
-
-| Projeto | Conteúdo | Tecnologias |
-|---|---|---|
-| [Finance Squirrel](https://github.com/Henriqueriano/finance_squirrel) | Aplicação de controle financeiro pessoal, com organização de receitas e despesas, relatórios e gráficos. | TypeScript, React |
-| [Jison Compiler](https://github.com/Henriqueriano/jison_compiler) | Analisador léxico e sintático para um subconjunto da linguagem C. | Jison, JavaScript, C |
-| [Go Game Server](https://github.com/Henriqueriano/go_game_server) | Experimentos com Go voltados à construção de servidores e aplicações. | Go |
-| [Rust HTTP Server](https://github.com/Henriqueriano/rust_http_server_base) | Base para servidor HTTP desenvolvida em Rust. | Rust |
-| [AFND para AFD](https://github.com/Henriqueriano/afnd_to_afd) | Implementação de conceitos de autômatos finitos. | Python |
-| [IA Project](https://github.com/Henriqueriano/ia_project) | Estudos e implementações relacionadas a inteligência artificial. | Python |
-| [Computer Graphic Game](https://github.com/Henriqueriano/computer_graphic_game) | Projeto acadêmico envolvendo gráficos e desenvolvimento de jogos. | C# |
-
 ## Estatísticas
 
 <div align="center">
@@ -59,3 +47,4 @@ Fique à vontade para explorar meus projetos e acompanhar minha evolução como 
 <sub>Obrigado pela visita!</sub>
 
 </div>
+
